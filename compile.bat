@@ -1,1 +1,0 @@
-devenv WeChook.sln /rebuild
